@@ -1,4 +1,4 @@
-# PermScan
+# ACLViewer
 
 This PowerShell script scans the specified directory for folder permissions and generates a detailed table of access rights for each folder.
 
@@ -26,12 +26,12 @@ This PowerShell script scans the specified directory for folder permissions and 
 
 ## How to Use
 
-1. Save the script as `PermScan.ps1`.
+1. Save the script as `ACLViewer.ps1`.
 2. Open PowerShell with appropriate permissions.
 3. Run the script using the following command:
 
    ```powershell
-   .\PermScan.ps1 -Path "C:\Your\Directory\Path"
+   .\ACLViewer.ps1 -Path "C:\Your\Directory\Path"
    ```
 
    Replace `"C:\Your\Directory\Path"` with the directory you want to scan.
