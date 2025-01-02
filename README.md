@@ -22,7 +22,7 @@ This PowerShell script scans the specified directory for folder permissions and 
 
 | Parameter | Description                       | Default Value                |
 |-----------|-----------------------------------|------------------------------|
-| `Path`    | The directory to scan for folders | `D:\SharedFolders\Fibula`    |
+| `Path`    | The directory to scan for folders | `C:\Your\Directory\Path`    |
 
 ## How to Use
 
